@@ -1,0 +1,2 @@
+# Geometric Drawings
+The purpose of this program is to render various elliptical and rectangular shape defined by the x and y coordinates inputted by the user. The shapes have the option of being either having an outline (hollow) or filled (solid) with various color options. Additionally, the program will check for various exceptions. These include, but not limited to, invalid non-integer input values and shapes that do not fit within the parameters of the panel.
